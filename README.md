@@ -1,5 +1,5 @@
 ## Miguel Ángel TIxta González 👋
-tigm040929@gs.utm.mx
+# tigm040929@gs.utm.mx
 <br/>Estudiante de séptimo semestre de Ingeniería en Mecatrónica en UTM.
 
 <!--
