@@ -1,4 +1,6 @@
-## Hi there 👋
+## Miguel Ángel TIxta González 👋
+tigm040929@gs.utm.mx
+<br/>Estudiante de séptimo semestre de Ingeniería en Mecatrónica en UTM.
 
 <!--
 **MiguelTG49/MiguelTG49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
