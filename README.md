@@ -1,6 +1,6 @@
 ## Miguel Ángel TIxta González 👻
 ### tigm040929@gs.utm.mx
-Se encuentra en formación en Ingeniería en Mecatrónica en la Universidad Tecnológica de la Mixteca, donde actualmente cursa el séptimo semestre de la carrera. Sus principales áreas de académico son la **robótica** y la **automatización**, en las cuales busca seguir desarrollándose profesionalmente.
+Se encuentra en formación en Ingeniería en Mecatrónica en la Universidad Tecnológica de la Mixteca, donde actualmente cursa el séptimo semestre de la carrera. Sus principales áreas de interés son la **robótica** y la **automatización**, en las cuales busca seguir desarrollándose profesionalmente.
 
 <br/>Ha trabajado con lenguajes de programación como C y Java, y se encuentra en proceso de aprendizaje de **Python**. Asimismo, cuenta con experiencia en el uso de herramientas y plataformas como Arduino, MATLAB, SolidWorks y VHDL en FPGAs, además de software de simulación de circuitos como Proteus, Multisim, FluidSim y Ansys.
 
