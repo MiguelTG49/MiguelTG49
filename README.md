@@ -4,7 +4,7 @@ Se encuentra en formación en Ingeniería en Mecatrónica en la Universidad Tecn
 
 <br/>Ha trabajado con lenguajes de programación como C y Java, y se encuentra en proceso de aprendizaje de **Python**. Asimismo, cuenta con experiencia en el uso de herramientas y plataformas como Arduino, MATLAB, SolidWorks y VHDL en FPGAs, además de software de simulación de circuitos como Proteus, Multisim, FluidSim y Ansys.
 
-<br/>Entre sus logros destacan la participación en el desarrollo de un demo funcional de sensores y procesos de automatización industrial en formato portátil, realizado en colaboración con la empresa **AVG INTEGRATION & AUTOMATION**, así como una investigación sobre el uso de la **nanotecnología en el proceso de purificación del agua**.
+<br/>Entre sus logros destacan la participación en el desarrollo de un demo funcional de sensores y procesos de automatización industrial en formato portátil, realizado para la empresa **AVG INTEGRATION & AUTOMATION** como proyecto de estancias profesionales, así como una investigación sobre el uso de la **nanotecnología en el proceso de purificación del agua**.
 
 <br/>En el ámbito personal, se considera una persona con sólidas habilidades de trabajo en equipo, adaptabilidad y liderazgo, las cuales le han permitido enfrentar con éxito proyectos colaborativos y académicos.
 <img width="964" height="203" alt="image" src="https://github.com/user-attachments/assets/9f1818a0-1b64-46eb-8c03-a8da88540806" />
