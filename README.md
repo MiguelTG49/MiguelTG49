@@ -2,6 +2,8 @@
 ### tigm040929@gs.utm.mx
 Soy estudiante de Ingeniería en Mecatrónica, actualmente en séptimo semestre, con gran interés en las áreas de robótica y automatización. He trabajado con lenguajes de programación como C y Java, y me encuentro en proceso de aprender Python. Tengo experiencia con herramientas y plataformas como Arduino, MATLAB, SolidWorks, VHDL en FPGAs, además de software de simulación de circuitos como Proteus, Multisim, FluidSim, etc. Me considero una persona con buenas habilidades de trabajo en equipo, adaptabilidad y liderazgo. 
 <br/>Algunos de mis logros más importantes incluyen la participación en el desarrollo de un demo funcional de sensores y automatización  industrial en un formato portáti para la empresa AVG Integration & Automation. Además de una investigación sobre el uso de la nanotecnología en el proceso de purificación del agua.
+![Uploading Imagen de WhatsApp 2025-09-15 a las 19.00.08_de4ea2e2.jpg…]()
+
 <!--
 **MiguelTG49/MiguelTG49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
