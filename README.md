@@ -6,8 +6,8 @@ Se encuentra en formación en Ingeniería en Mecatrónica en la Universidad Tecn
 
 <br/>Entre sus logros destacan la participación en el desarrollo de un demo funcional de sensores y procesos de automatización industrial en formato portátil, realizado para la empresa **AVG INTEGRATION & AUTOMATION** como proyecto de estancias profesionales, así como una investigación sobre el uso de la **nanotecnología en el proceso de purificación del agua**.
 
-<br/>En el ámbito personal, se considera una persona con sólidas habilidades de trabajo en equipo, adaptabilidad y liderazgo, las cuales le han permitido enfrentar con éxito proyectos colaborativos y académicos.
-<br/><img width="964" height="203" alt="image" src="https://github.com/user-attachments/assets/9f1818a0-1b64-46eb-8c03-a8da88540806" />
+<br/>En el ámbito personal, se considera una persona con sólidas habilidades de trabajo en equipo, adaptabilidad y liderazgo, las cuales le han permitido enfrentar con éxito proyectos colaborativos y académicos.<br/>
+<img width="964" height="203" alt="image" src="https://github.com/user-attachments/assets/9f1818a0-1b64-46eb-8c03-a8da88540806" />
 
 
 <!--
